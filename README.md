@@ -1,4 +1,4 @@
-## My Portfolio
+## My Portfolio - Kathryn H.
 
 This is a work in progress. A place for me to collect projects that I've done and other items of interest. I will be adding to this site over time.
 
