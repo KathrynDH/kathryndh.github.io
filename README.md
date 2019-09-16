@@ -1,5 +1,7 @@
 ## My Portfolio
 
+This is a work in progress. A place for me to collect projects that I've done and other items of interest. I will be adding to this site over time.
+
 You can use the [editor on GitHub](https://github.com/KathrynDH/kathryndh.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
