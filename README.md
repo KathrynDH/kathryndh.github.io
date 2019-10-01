@@ -10,6 +10,8 @@ The data provided include a training dataset and a test dataset. The predictions
 
 [GitHub Repository](https://github.com/KathrynDH/Housing-Prices-Kaggle)
 
+***
+
 ### IBM Coursera Data Science Capstone Project
 #### Description
 The repository is for the IBM Coursera Applied Data Science capstone project.  
@@ -18,12 +20,15 @@ I chose to use KMeans to cluster the 100 most populated metropolitan areas.
 
 [GitHub Repository](https://github.com/KathrynDH/IBMCapstoneFinalProject)
 
+***
 
 ### My graduate research paper on Matroid theory.
 #### Abstract
 Matroids were introduced in 1935 by Hassler Whitney. Matroid theory is an active area of research and incorporates concepts from algebra, geometry, combinatorics, and graph theory. This paper includes definitions and examples of matroids, an important theorem of matroid theory, Whitney’s 2-isomorphism theorem, an application of using matroids for combinatorial optimization, and a version of the Greedy Algorithm written in the Sage programming language.
 
 [Matroid Paper.pdf](matroidPaper%20-%20Copy.pdf)
+
+***
 
 ## Education
 
