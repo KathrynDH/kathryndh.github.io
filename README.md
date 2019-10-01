@@ -38,4 +38,4 @@ Matroids were introduced in 1935 by Hassler Whitney. Matroid theory is an active
 
 ### [MA in Mathematics, Central Michigan University](https://www.cmich.edu/colleges/se/math/Graduate%20Programs/Pages/Master-of-Arts-in-Mathematics.aspx)
 
-### [BS in Computer Science, Saginaw Valley State University](https://www.cmich.edu/colleges/se/math/Graduate%20Programs/Pages/Master-of-Arts-in-Mathematics.aspx)
+### [BS in Computer Science, Saginaw Valley State University](https://www.svsu.edu/cs/)
