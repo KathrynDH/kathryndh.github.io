@@ -2,7 +2,7 @@
 
 This is a place for me to collect projects that I've done and other items of interest.
 
-### Housing-Prices-Kaggle
+### Housing Prices-Kaggle Competition
 #### Description
 This is my notebook for Kaggle's [House Prices: Advanced Regression Techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/overview/evaluation)  
 I used a multiple linear regression model utilizing Scikit Learn's LassoCV class.
@@ -27,3 +27,8 @@ Matroids were introduced in 1935 by Hassler Whitney. Matroid theory is an active
 
 ## Education
 
+### [IBM Data Science Professional Certificate](https://www.youracclaim.com/badges/fe62d181-7ef5-4271-a69f-ebbfb4e24d74)
+
+### [MA in Mathematics, Central Michigan University](https://www.cmich.edu/colleges/se/math/Graduate%20Programs/Pages/Master-of-Arts-in-Mathematics.aspx)
+
+### [BS in Computer Science, Saginaw Valley State University](https://www.cmich.edu/colleges/se/math/Graduate%20Programs/Pages/Master-of-Arts-in-Mathematics.aspx)
