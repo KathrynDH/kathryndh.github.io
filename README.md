@@ -2,6 +2,8 @@
 
 This is a place for me to collect projects that I've done and other items of interest.
 
+## Projects and Papers
+
 ### Housing Prices-Kaggle Competition
 #### Description
 This is my notebook for Kaggle's [House Prices: Advanced Regression Techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/overview/evaluation)  
