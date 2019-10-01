@@ -1,6 +1,14 @@
 ## My Portfolio - Kathryn H.
 
-This is a place for me to collect projects that I've done and other items of interest. I will be adding to this site over time.
+This is a place for me to collect projects that I've done and other items of interest.
+
+### Housing-Prices-Kaggle
+#### Description
+This is my notebook for Kaggle's [House Prices: Advanced Regression Techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/overview/evaluation)  
+I used a multiple linear regression model utilizing Scikit Learn's LassoCV class.
+The data provided include a training dataset and a test dataset. The predictions made using the test dataset are submitted to the Kaggle competition. The data is for residential home sales in Ames, Iowa. The goal is to predict the selling price of the houses.
+
+[GitHub Repository](https://github.com/KathrynDH/Housing-Prices-Kaggle)
 
 ### IBM Coursera Data Science Capstone Project
 #### Description
