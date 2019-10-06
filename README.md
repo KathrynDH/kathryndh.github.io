@@ -1,4 +1,4 @@
-## My Portfolio - Kathryn H.
+## Portfolio - Kathryn H.
 
 This is a place for me to collect projects that I've done and other items of interest.
 
@@ -24,7 +24,7 @@ I chose to use KMeans to cluster the 100 most populated metropolitan areas.
 
 ***
 
-### My graduate research paper on Matroid theory.
+### Graduate research paper on Matroid theory.
 #### Abstract
 Matroids were introduced in 1935 by Hassler Whitney. Matroid theory is an active area of research and incorporates concepts from algebra, geometry, combinatorics, and graph theory. This paper includes definitions and examples of matroids, an important theorem of matroid theory, Whitney’s 2-isomorphism theorem, an application of using matroids for combinatorial optimization, and a version of the Greedy Algorithm written in the Sage programming language.
 
@@ -34,8 +34,8 @@ Matroids were introduced in 1935 by Hassler Whitney. Matroid theory is an active
 
 ## Education
 
-### [IBM Data Science Professional Certificate](https://www.youracclaim.com/badges/fe62d181-7ef5-4271-a69f-ebbfb4e24d74)
+### <a href='https://www.youracclaim.com/badges/fe62d181-7ef5-4271-a69f-ebbfb4e24d74' target='_blank'>IBM Data Science Professional Certificate</a>
 
-### [MA in Mathematics, Central Michigan University](https://www.cmich.edu/colleges/se/math/Graduate%20Programs/Pages/Master-of-Arts-in-Mathematics.aspx)
+### <a href='https://www.cmich.edu/colleges/se/math/Graduate%20Programs/Pages/Master-of-Arts-in-Mathematics.aspx' target='_blank'>MA in Mathematics, Central Michigan University</a>
 
-### [BS in Computer Science, Saginaw Valley State University](https://www.svsu.edu/cs/)
+### <a href='https://www.svsu.edu/cs/' target='_blank'>BS in Computer Science, Saginaw Valley State University</a>
