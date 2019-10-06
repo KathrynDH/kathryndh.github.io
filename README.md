@@ -6,7 +6,10 @@ This is a place for me to collect projects that I've done and other items of int
 
 ### Housing Prices-Kaggle Competition
 #### Description
-This is my notebook for Kaggle's [House Prices: Advanced Regression Techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/overview/evaluation)  
+This is my notebook for Kaggle's <a href='https://www.kaggle.com/c/house-prices-advanced-regression-techniques/overview/evaluation' target='_blank'>House Prices: Advanced Regression Techniques</a>
+
+
+[House Prices: Advanced Regression Techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/overview/evaluation)  
 I used a multiple linear regression model utilizing Scikit Learn's LassoCV class.
 The data provided include a training dataset and a test dataset. The predictions made using the test dataset are submitted to the Kaggle competition. The data is for residential home sales in Ames, Iowa. The goal is to predict the selling price of the houses.
 
