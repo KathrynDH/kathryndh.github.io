@@ -24,11 +24,11 @@ I chose to use KMeans to cluster the 100 most populated metropolitan areas.
 
 ***
 
-### Graduate research paper on Matroid theory.
+### Graduate research paper on Matroid theory
 #### Abstract
 Matroids were introduced in 1935 by Hassler Whitney. Matroid theory is an active area of research and incorporates concepts from algebra, geometry, combinatorics, and graph theory. This paper includes definitions and examples of matroids, an important theorem of matroid theory, Whitney’s 2-isomorphism theorem, an application of using matroids for combinatorial optimization, and a version of the Greedy Algorithm written in the Sage programming language.
 
-<a href='matroidPaper%20-%20Copy.pdf' target='_blank'>Matroid Paper.pdf</a>
+<a href='matroidPaper.pdf' target='_blank'>Matroid Paper.pdf</a>
 
 ***
 
