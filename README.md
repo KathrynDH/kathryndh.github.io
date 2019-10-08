@@ -1,6 +1,6 @@
 ## Portfolio - Kathryn H.
 
-I have included here some of the projects that I've completed, a paper I wrote as a graduate student on Matriods, and information about my education.
+I have included here some of the projects I've completed, a paper I wrote as a graduate student on Matriods, and information about my education.
 
 ## Projects and Papers
 
