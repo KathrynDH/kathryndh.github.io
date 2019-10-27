@@ -24,6 +24,16 @@ I chose to use KMeans to cluster the 100 most populated metropolitan areas.
 
 ***
 
+### Titanic - Kaggle Competition
+#### Description
+This is my notebook for Kaggle's <a href='https://www.kaggle.com/c/titanic/overview' target='_blank'>Titanic: Machine Learning from Disaster</a>  
+I created Pipelines and used GridSearchCV to determine the best hyperparameters for three different classifiers: DecisionTreeClassifier, RandomForestClassifier, and XGBClassifier.
+The goal of this competition is to predict which passengers on the Titanic survived.
+
+<a href='https://github.com/KathrynDH/Titanic-Kaggle' target='_blank'>GitHub Repository</a>
+
+***
+
 ### Graduate research paper on Matroid theory
 #### Abstract
 Matroids were introduced in 1935 by Hassler Whitney. Matroid theory is an active area of research and incorporates concepts from algebra, geometry, combinatorics, and graph theory. This paper includes definitions and examples of matroids, an important theorem of matroid theory, Whitney’s 2-isomorphism theorem, an application of using matroids for combinatorial optimization, and a version of the Greedy Algorithm written in the Sage programming language.
