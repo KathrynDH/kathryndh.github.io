@@ -30,7 +30,7 @@ This is my notebook for Kaggle's <a href='https://www.kaggle.com/c/titanic/overv
 I created Pipelines and used GridSearchCV to determine the best hyperparameters for three different classifiers: DecisionTreeClassifier, RandomForestClassifier, and XGBClassifier.
 The goal of this competition is to predict which passengers on the Titanic survived.
 
-<a href='https://github.com/KathrynDH/Titanic-Kaggle' target='_blank'>GitHub Repository</a>
+<a href='https://github.com/KathrynDH/TitanicPredictions-Kaggle' target='_blank'>GitHub Repository</a>
 
 ***
 
