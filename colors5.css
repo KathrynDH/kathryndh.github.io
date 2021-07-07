@@ -1,0 +1,27 @@
+@charset "UTF-8";
+:root {
+  /*--rgba-primary-0: rgb(59, 113, 151); /* darkest - page background*/
+  --rgba-primary-0: rgb(35,95,137);
+  --rgba-primary-1: rgb(91,140,175); /* lighter */
+  --rgba-primary-2: rgb(141,181,209); /* even lighter */
+
+  --rgba-complement-0:rgba( 64, 33,  3,1); /* Darkest */
+  --rgba-complement-1:rgba(255, 198, 124,1);
+  --rgba-complement-2:rgba(255, 217, 167,1);
+
+  --gradient1-l: rgba(64, 33, 3,.1);
+  --gradient1-r: rgba(64, 33, 3,.5);
+
+  --gradient2-l: rgba(91,140,175,.9);
+  --gradient2-r: rgba(91,140,175,.7);
+
+  --colorcard: rgba(255, 255, 255,.8); /* card background */
+  --colortext: rgba(255, 255, 255,.9);
+  --textshadow: 1px 1px 2px black;
+}
+/*.gradient-back, .box2{
+  border-color: var(--rgba-complement-0);
+  border-style: solid;
+  border-width: medium;
+}
+*/

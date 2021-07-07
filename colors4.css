@@ -1,0 +1,13 @@
+@charset "UTF-8";
+:root {
+  /*--rgba-primary-0: rgb(59, 113, 151); /* darkest - page background*/
+  --rgba-primary-0: rgb(35,95,137);
+  --rgba-primary-1: rgb(91,140,175); /* lighter */
+  --rgba-primary-2: rgb(141,181,209); /* even lighter */
+
+  --gradient1-l: rgba(141,181,209,.2);
+  --gradient1-r: rgba(141,181,209,.5);
+
+  --gradient2-l: rgba(91,140,175,1);
+  --gradient2-r: rgba(91,140,175,.5);
+}

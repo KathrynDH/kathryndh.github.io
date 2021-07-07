@@ -1,0 +1,67 @@
+@charset "UTF-8";
+:root {
+
+  --rgba-primary-0:rgba(  3, 34, 40,1); /* Darkest */
+  --rgba-primary-1:rgba( 15, 55, 62,1);
+  --rgba-primary-2:rgba( 30, 74, 82,1);
+  --rgba-primary-3:rgba( 49, 93,101,1);
+  --rgba-primary-4:rgba( 76,117,124,1);
+  --rgba-primary-5:rgba(108,139,145,1);
+  --rgba-primary-6:rgba(157,178,182,1); /* Lightest */
+
+  --rgba-complement-0:rgba( 64, 33,  3,1); /* Darkest */
+  --rgba-complement-1:rgba(101, 60, 22,1);
+  --rgba-complement-2:rgba(133, 89, 47,1);
+  --rgba-complement-3:rgba(164,120, 77,1);
+  --rgba-complement-4:rgba(202,161,122,1);
+  --rgba-complement-5:rgba(236,204,173,1);
+  --rgba-complement-6:rgba(255,236,219,1); /* Lightest */
+
+  --gradient1-l: rgba(236,204,173,.1);
+  --gradient1-r: rgba(236,204,173,.5);
+
+  --gradient2-l: rgba(30, 74, 82,1);
+  --gradient2-r: rgba(30, 74, 82,.7);
+
+  --colorcard: rgba(255, 255, 255,.8); /* card background */
+  --colortext: rgba(255,236,219,.9);
+  --textshadow: 1px 1px 2px black;
+
+}
+.navbar, .card-header{
+  background-image: linear-gradient(90deg, var(--gradient1-l), var(--gradient1-r)),
+  linear-gradient(90deg, var(--gradient2-l), var(--gradient2-r));
+  background-color: rgba(255, 255, 255,.5);
+}
+.gradient-back, .box2{
+  background-image: linear-gradient(90deg, var(--gradient1-l), var(--gradient1-r)),
+  linear-gradient(90deg, var(--gradient2-l), var(--gradient2-r)), url('/static/img/6.jpg');
+  background-size: cover;
+}
+
+body{
+  background-color: var(--rgba-primary-3);
+}
+a{
+  color: var(--rgba-primary-1);
+}
+a:hover, a:active{
+  color: var(--rgba-primary-0);
+}
+.btn-outline-dark {
+  color: var(--rgba-primary-0);
+  border-color: var(--rgba-primary-0);
+}
+.btn-outline-dark:hover, .btn-outline-dark:active{
+  background-color: var(--rgba-primary-2);
+  border-color: var(--rgba-primary-1);
+}
+a.headertext:hover,
+.navbar-dark .navbar-nav .nav-link:hover, .navbar-dark .navbar-nav .nav-link:focus,
+.btn-outline-dark:hover, .btn-outline-dark:active{
+  color:var(--rgba-primary-0);
+  text-shadow: 1px 1px 2px var(--colorcard);
+}
+.navbar-toggler-icon {
+  background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3e%3cpath stroke='rgba(255, 255, 255,.5)' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e");
+}
